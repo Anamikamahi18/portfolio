@@ -1,7 +1,7 @@
 🌐 My Portfolio Website
 
 A modern, responsive personal portfolio website built with React.js, Tailwind CSS, and JavaScript.
-Deployed on Netlify / Vercel with CI/CD integration.
+Deployed on Vercel with CI/CD integration.
 
 🚀 Features
 
@@ -17,7 +17,7 @@ Projects section with live demo & GitHub links
 
 Contact form (EmailJS or backend integration)
 
-SEO-friendly & optimized performance
+SEO-friendly & optimised performance
 
 
 ⚙️ Installation & Setup
@@ -33,7 +33,7 @@ Install dependencies
 npm install
 
 
-Start development server
+Start the development server
 
 npm start
 
@@ -53,7 +53,7 @@ Netlify
 
 Push your code to GitHub
 
-Connect repo on Netlify
+Connect the repo on Netlify
 
 Build command: npm run build
 
@@ -69,9 +69,6 @@ Build command: npm run build
 
 Output directory: build/
 
-📸 Preview
-
-(Add screenshots of your portfolio sections here — Hero, Projects, Contact)
 
 🛠️ Built With
 
