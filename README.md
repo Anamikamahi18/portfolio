@@ -90,7 +90,6 @@ Anamika M.
 
 🌍 From Thiruvananthapuram, Kerala
 
-💼 Full Stack Web Development Intern at MashupStack
 
 🔗 linkedin.com/in/anamika-m-16a09321b 
  | github.com/Anamikamahi18  
