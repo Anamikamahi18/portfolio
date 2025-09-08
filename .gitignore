@@ -74,3 +74,4 @@ out/
 
 # Optional: Parcel cache
 .cache/
+.vercel
