@@ -19,40 +19,6 @@ Contact form (EmailJS or backend integration)
 
 SEO-friendly & optimized performance
 
-📂 Folder Structure
-portfolio/
-│── public/                 # static files (favicon, images, etc.)
-│   └── assets/             # portfolio images/icons
-│   ├── index.html          
-│
-│── src/
-│   ├── components/    
-│   │   ├── ui/              # UI sections
-│   │     ├── toast.js   
-│   │     ├── toaster.js  
-│   │     ├── tooltip.js    
-│   │   ├── Navbar.js
-│   │   ├── Hero.js
-│   │   ├── About.js
-│   │   ├── Projects.js
-│   │   ├── Contact.js
-│   │   └── Footer.js
-│   │   └── Skills.js
-│   │
-│   │
-│   ├── data/               # project/skills JSON
-│   │   └── projects.js
-│   │   └── skills.js
-│   │
-│   ├── App.js            # root layout
-│   └── index.js            # entry point
-│
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-└── README.md
-├── tailwind.config.js
 
 ⚙️ Installation & Setup
 
