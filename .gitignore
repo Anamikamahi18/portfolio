@@ -21,6 +21,10 @@ pnpm-debug.log*
 # Local env files
 .env
 .env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # Editor directories and files
 .vscode/
@@ -47,5 +51,26 @@ out/
 .pnp
 .pnp.js
 
+# Optional: OS-specific files
+*.swp
+*.bak
+*.tmp
 
+# Optional: ESLint cache
+.eslintcache
 
+# Optional: IDEs/editors
+*.code-workspace
+
+# Optional: Storybook
+.storybook/
+out/
+
+# Optional: JetBrains IDEs
+*.iml
+
+# Optional: SASS cache
+.sass-cache/
+
+# Optional: Parcel cache
+.cache/
